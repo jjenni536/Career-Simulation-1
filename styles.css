@@ -2,13 +2,14 @@ img {
     width: 25%;
     display: inline-flexbox;
     position: top;
-    height: fit-content;
-    background-color: aqua;
+    height: auto;
+    background-color:black;
+    padding: 2px;
     margin: 10px;
     align-items: center;
 }
 html {
-    background-color: tan;
+    background-color: #ff8fa3;
 }
 section {
     display: inline-block;
@@ -17,5 +18,32 @@ section {
     padding: 20px;
     border-color: brown;
     border-style: solid;
+    width: fit-content;
+    text-align: center;
     
+}
+div {
+    background-color: crimson;
+    display: inline-block;
+    margin: 15px;
+    padding: 20px;
+    border-color: brown;
+    border-style: solid;
+    text-align: center;
+}
+nav {
+    background-color: black;
+    color: #c9184a;
+    text-align: center;
+}
+footer{
+    background-color: black;
+    text-align: center;
+}
+h1 {
+    background-color: #fff0f3;
+    font-size: xx-large;
+    font-style: normal;
+    font-kerning: 10px;
+    text-align: center;
 }
