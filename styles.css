@@ -10,3 +10,12 @@ img {
 html {
     background-color: tan;
 }
+section {
+    display: inline-block;
+    margin: 15px;
+    background-color: crimson;
+    padding: 20px;
+    border-color: brown;
+    border-style: solid;
+    
+}
