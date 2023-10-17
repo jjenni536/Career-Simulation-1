@@ -1,0 +1,12 @@
+img {
+    width: 25%;
+    display: inline-flexbox;
+    position: top;
+    height: fit-content;
+    background-color: aqua;
+    margin: 10px;
+    align-items: center;
+}
+html {
+    background-color: tan;
+}
