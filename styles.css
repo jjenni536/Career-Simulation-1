@@ -8,9 +8,11 @@ img {
     margin: 10px;
     align-items: center;
 }
+
 html {
     background-color: #ff8fa3;
 }
+
 section {
     display: inline-block;
     margin: 15px;
@@ -20,8 +22,8 @@ section {
     border-style: solid;
     width: fit-content;
     text-align: center;
-    
 }
+
 div {
     background-color: crimson;
     display: inline-block;
@@ -30,12 +32,16 @@ div {
     border-color: brown;
     border-style: solid;
     text-align: center;
+    width: fit-content;
 }
 nav {
     background-color: black;
     color: #c9184a;
     text-align: center;
+    padding: 10px;
+    margin: 10px;
 }
+
 footer{
     background-color: black;
     text-align: center;
@@ -46,4 +52,26 @@ h1 {
     font-style: normal;
     font-kerning: 10px;
     text-align: center;
+    padding: 5px;
+    margin: 10px;
 }
+p {
+    text-align: center;
+    background-color: black;
+    color: pink;
+    padding: 10px;
+    border-style: solid;
+    border-color: #ff8fa3;
+    line-height: 2;
+}
+h4 {
+    background-color: #fff0f3;
+}
+#projects {
+    text-decoration: underline;
+    color: #c9184a;
+}
+#Learn {
+    color: #c9184a;
+    text-decoration: underline;
+}   
